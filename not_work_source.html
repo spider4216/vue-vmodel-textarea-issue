@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+
+<script src="https://unpkg.com/vue@3"></script>
+</head>
+
+<body>
+
+        <div id="app">
+            <textarea v-model="text"></textarea>
+            <div><span>{{ text }}</span></div>
+        </div>
+
+        <script type="text/javascript">
+                Vue.createApp({
+                    data() {
+                        return {
+                            text: ''
+                        }
+                    }
+                }).mount('#app');
+        </script>
+</body>
+
+</html> 
