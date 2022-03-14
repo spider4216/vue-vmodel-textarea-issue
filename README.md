@@ -65,6 +65,12 @@ Samsung Galaxy A50
 
 ![Image](https://github.com/spider4216/vue-vmodel-textarea-issue/blob/main/new_samsung_work.gif?raw=true)
 
+## Additional comments
+
+Problem with our app on production
+
+![Image](https://github.com/spider4216/vue-vmodel-textarea-issue/blob/main/old_not_work_on_prod.gif?raw=true)
+
 ## Versions
 
 Vue 3
